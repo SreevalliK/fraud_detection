@@ -6,7 +6,7 @@ def model1():
     print("Adding code for Model1")
 
 def model2():
-    print("Changed code for conflicts")
+    str1="Sreevalli"
 
 def model3():
     print("Adding code for model33333")
